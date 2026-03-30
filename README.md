@@ -1,5 +1,10 @@
 # AI Habit Tracker App
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/29572898-8964-40fc-9a31-45c5a567f7c8" />
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1591eb8b-287a-4bbd-bf1b-e1aafab4d9ad" />
+
+
 ## Setup
 
 ### Backend
